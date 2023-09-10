@@ -1,3 +1,3 @@
 # SQA
-Learning Purpose \newline
+Learning Purpose \n
 watching Introduction part
