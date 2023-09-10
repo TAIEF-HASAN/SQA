@@ -1,3 +1,3 @@
 # SQA
-Learning Purpose \n
+Learning Purpose  :-
 watching Introduction part
