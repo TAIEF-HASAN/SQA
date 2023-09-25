@@ -1,4 +1,4 @@
 # SQA
 Learning Purpose <br>
-watching Introduction part <br>
-02 - Roles in the Software Development Team
+watching complete - Introduction part <br>
+watching complete - 02 - Roles in the Software Development Team
