@@ -14,4 +14,5 @@ has been completed the full slide <br>
 <p>---------------------<b>Start</b>--------------------------</p>
 <p>05 - Test Scenario Writing [Beginner]05 - Test Scenario Writing [Beginner]</p>
 <p>complete - 001 What is a test scenario</p>
+<p>complete - 002 Setting Up Trello</p>
 
