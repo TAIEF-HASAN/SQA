@@ -17,3 +17,4 @@ has been completed the full slide <br>
 <p>complete - 002 Setting Up Trello</p>
 <p>complete - 003 Registration Test Scenarios  Part 1</p>
 <p>complete - 004 Registration Test Scenarios  Part 2</p>
+<p>complete - 005 Facebook Sign-up Test Scenarios  Part 1</p>
