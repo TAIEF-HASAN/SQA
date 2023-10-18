@@ -20,4 +20,5 @@ has been completed the full slide <br>
 <p>complete - 005 Facebook Sign-up Test Scenarios  Part 1</p>
 <p>complete - 006 Facebook Sign-up Test Scenarios  Part 2</p>
 <p>complete - 007 Facebook Login Test Scenarios</p>
+<p>complete - 008 Search Functionality Test Scenarios</p>
 
