@@ -21,5 +21,8 @@ has been completed the full slide <br>
 <p>complete - 006 Facebook Sign-up Test Scenarios  Part 2</p>
 <p>complete - 007 Facebook Login Test Scenarios</p>
 <p>complete - 008 Search Functionality Test Scenarios</p>
+
+<p>--------------------<b>Start</b>----------------------------</p>
 <p><a href = "https://drive.google.com/file/d/1unZFkLBQnkF0y0zeqXHxWjjjKKcpclwK/view" >You can download the slides for this section from here.</a></p>
+<p>complete - 002 Test Case Writing</p>
 
