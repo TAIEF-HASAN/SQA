@@ -25,4 +25,5 @@ has been completed the full slide <br>
 <p>--------------------<b>Start</b>----------------------------</p>
 <p><a href = "https://drive.google.com/file/d/1unZFkLBQnkF0y0zeqXHxWjjjKKcpclwK/view" >You can download the slides for this section from here.</a></p>
 <p>complete - 002 Test Case Writing</p>
+<p>complete - 003 How to write test cases using Google Sheets</p>
 
