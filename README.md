@@ -27,3 +27,13 @@ has been completed the full slide <br>
 <p>complete - 002 Test Case Writing</p>
 <p>complete - 003 How to write test cases using Google Sheets</p>
 
+<p>Click <a href = "https://docs.google.com/spreadsheets/d/1qmSL0UPu3DhXAwoF1VLUZqG4nqU2Jct3K_7GxJPgxnE/edit"> here </a> to access the Empty test case template. Use it to write test cases for registration and login Scenarios. </p>
+
+<p> Test case written by be for to see click <a href="https://docs.google.com/spreadsheets/d/1Zuh7CAwBU8uzzb3fQrSqccwsyTCKaH4lx1tZp6O2Drc/edit#gid=0" >here</a></p>
+
+<p> <a href="https://ibb.co/VHMJ4Bm">Link to the Sign-up screen  </a> </p>
+<p> <a href="https://ibb.co/fNjwsFp">Link to the Login screen  </a> </p>
+
+<p>complete - 005 Sign-up Valid Test Cases</p>
+
+
