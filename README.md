@@ -35,5 +35,6 @@ has been completed the full slide <br>
 <p> <a href="https://ibb.co/fNjwsFp">Link to the Login screen  </a> </p>
 
 <p>complete - 005 Sign-up Valid Test Cases</p>
+<p>complete - 007 Invalid Sign-up Test Cases</p>
 
 
