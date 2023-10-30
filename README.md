@@ -37,5 +37,5 @@ has been completed the full slide <br>
 <p>complete - 005 Sign-up Valid Test Cases</p>
 <p>complete - 007 Invalid Sign-up Test Cases</p>
 <p>complete - 008 Username Test Cases</p>
-
+<p>complete - 009 Email Test Cases</p>
 
