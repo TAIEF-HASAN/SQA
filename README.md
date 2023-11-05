@@ -43,4 +43,6 @@ has been completed the full slide <br>
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>-------------------------------<b>Test Case Writing using Zephyr Scale</b>-------------------------------------</p>
 
+<p>complete - 001 Introduction to Zephyr Scale & Setup</p>
+
 
