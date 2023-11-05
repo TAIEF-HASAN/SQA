@@ -40,4 +40,7 @@ has been completed the full slide <br>
 <p>complete - 009 Email Test Cases</p>
 <p>complete - 010 Password Test Cases</p>
 
+<p>------------------------<b>Start</b>----------------------------------------</p>
+<p>-------------------------------<b>Test Case Writing using Zephyr Scale</b>-------------------------------------</p>
+
 
