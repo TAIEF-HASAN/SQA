@@ -45,5 +45,6 @@ has been completed the full slide <br>
 
 <p>complete - 001 Introduction to Zephyr Scale & Setup</p>
 <p>complete - 002 Creating First Test Case</p>
+<p>complete - 003 Exploring Project (Budget Manager)</p>
 
 
