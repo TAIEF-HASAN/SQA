@@ -49,5 +49,6 @@ has been completed the full slide <br>
 <p>complete - 004 Sign-up Test Cases</p>
 <p>complete - 005 Login Test Cases</p>
 <p>complete - 006 Forgot Password Test Cases.mp4</p>
+<p>complete - 007 Writing Test Cases for the rest of the project.mp4</p>
 
 
