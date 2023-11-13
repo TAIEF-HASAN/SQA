@@ -51,5 +51,6 @@ has been completed the full slide <br>
 <p>complete - 006 Forgot Password Test Cases</p>
 <p>complete - 007 Writing Test Cases for the rest of the project</p>
 <p>complete - 008 Managing Test Cycles Adding Status & Priority of Test Cases</p>
+<p>complete - 009 Creating Test Cycles</p>
 
 
