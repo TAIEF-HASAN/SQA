@@ -53,4 +53,5 @@ has been completed the full slide <br>
 <p>complete - 008 Managing Test Cycles Adding Status & Priority of Test Cases</p>
 <p>complete - 009 Creating Test Cycles</p>
 <p>complete - 010 Generating Test Reports</p>
+<p>complete - 011 Configurations in Test Cycles</p>
 
