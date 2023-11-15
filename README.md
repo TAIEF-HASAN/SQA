@@ -62,4 +62,6 @@ has been completed the full slide <br>
 <p>complete - 002 How to write a Bug Report</p>
 <p>complete - 004 Types of Defects</p>
 <p>complete - 005 Taking Screenshots for the Defect Report</p>
+<p>complete - 006 Video Recording for the Defect Report</p>
+<p>SS recorder name for bug report <mark><a href="https://screencast-o-matic.com">https://screenpal.com/</a></mark></p>
 
