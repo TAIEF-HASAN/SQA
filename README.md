@@ -56,5 +56,5 @@ has been completed the full slide <br>
 <p>complete - 011 Configurations in Test Cycles</p>
 
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
-<p>-------------------------------<b>Test Case Writing using Zephyr Scale</b>-------------------------------------</p>v
+<p>------------------------------------------<b>How to write a Bug Report</b>-------------------------------------</p>
 
