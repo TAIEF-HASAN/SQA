@@ -57,6 +57,7 @@ has been completed the full slide <br>
 
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>--------------------------------------<b>How to write a Bug Report</b>-----------------------------------------</p>
+<p>complete - 001 Link to this section's slides</p>
 <p><a href="https://drive.google.com/file/d/1sLrtoQscr9A7P4h-xW1d8duGsWucy6JQ/view">You can download the slides for this section from here.</a></p>
 <p>complete - 002 How to write a Bug Report</p>
 
