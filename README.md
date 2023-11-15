@@ -55,3 +55,6 @@ has been completed the full slide <br>
 <p>complete - 010 Generating Test Reports</p>
 <p>complete - 011 Configurations in Test Cycles</p>
 
+<p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
+<p>-------------------------------<b>Test Case Writing using Zephyr Scale</b>-------------------------------------</p>v
+
