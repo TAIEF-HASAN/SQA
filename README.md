@@ -65,3 +65,6 @@ has been completed the full slide <br>
 <p>complete - 006 Video Recording for the Defect Report</p>
 <p>SS recorder name for bug report <mark><a href="https://screencast-o-matic.com">https://screenpal.com/</a></mark></p>
 
+<p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
+<p>--------------------------------- <b>Mobile Testing Basics [Beginner]</b>--------------------------------------</p>
+
