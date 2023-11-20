@@ -67,5 +67,6 @@ has been completed the full slide <br>
 
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>---------------------<b>Testing Reports Test Progress & Test Summary Report [Beginner]</b>---------------------</p>
+<p>complete - What are testing reports and why do we need them</p>
 
 
