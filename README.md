@@ -70,4 +70,8 @@ has been completed the full slide <br>
 <p>complete - 001 What are testing reports and why do we need them</p>
 <p>complete - 002 What are testing reports and why do we need them</p>
 
+<p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
+<p>---------------------<b>10 - Manual Software Testing Interview Questions [Beginner]</b>------------------------</p>
+
+
 
