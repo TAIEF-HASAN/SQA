@@ -73,6 +73,7 @@ has been completed the full slide <br>
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>---------------------<b>10 - Manual Software Testing Interview Questions [Beginner]</b>------------------------</p>
 <p>complete - 001 Introduction</p>
+<p>complete - 002 Manual Tester Interview Questions  Q1 to Q3</p>
 
 
 
