@@ -79,6 +79,6 @@ has been completed the full slide <br>
 <p>complete - 005 Manual Tester Interview Questions  Q10 to Q12</p>
 <p>complete - 006 Manual Tester Interview Questions  Q13 to Q15</p>
 <p>complete - 007 Manual Tester Interview Questions  Q16 to Q18</p>
-
+<p>complete - 008 Manual Tester Interview Questions  Q19 to Q21</p>
 
 
