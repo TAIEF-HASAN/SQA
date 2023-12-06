@@ -86,4 +86,4 @@ has been completed the full slide <br>
 <p>complete - 012 Manual Tester Interview Questions  Q31 to Q33</p>
 <p>complete - 013 Manual Tester Interview Questions  Q34 to Q36</p>
 <p>complete - 014 Manual Tester Interview Questions  Q37 to Q39</p>
-
+<a href = "https://drive.google.com/file/d/1p2xNDIfGvsvU_7pT1hcpp1hIwtRPaae6/view"> 015 Download Manual Tester Interview Questions</a>
