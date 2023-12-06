@@ -84,4 +84,6 @@ has been completed the full slide <br>
 <p>complete - 010 Manual Tester Interview Questions  Q25 to Q27</p>
 <p>complete - 011 Manual Tester Interview Questions  Q28 to Q30</p>
 <p>complete - 012 Manual Tester Interview Questions  Q31 to Q33</p>
+<p>complete - 013 Manual Tester Interview Questions  Q34 to Q36</p>
+<p>complete - 014 Manual Tester Interview Questions  Q37 to Q39</p>
 
