@@ -92,3 +92,4 @@ has been completed the full slide <br>
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>---------------------<b>11 - Basics of Agile & Agile Testing [Beginner]</b>------------------------</p>
 <p>complete - 001 Introduction to Agile Project Management</p>
+<p>complete - 002 Agile 4 Values</p>
