@@ -97,3 +97,4 @@ has been completed the full slide <br>
 <p>complete - 004 Difference between Agile & Classical Software Development</p>
 <p>complete - 005 Whole Team Approach</p>
 <p>complete - 006 Early & Frequent Feedback</p>
+<p>complete - 007 User Story Definition</p>
