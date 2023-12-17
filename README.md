@@ -98,3 +98,4 @@ has been completed the full slide <br>
 <p>complete - 005 Whole Team Approach</p>
 <p>complete - 006 Early & Frequent Feedback</p>
 <p>complete - 007 User Story Definition</p>
+<p>complete - 008 Decomposing Requirements</p>
