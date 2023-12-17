@@ -100,3 +100,4 @@ has been completed the full slide <br>
 <p>complete - 007 User Story Definition</p>
 <p>complete - 008 Decomposing Requirements</p>
 <p>complete - 009 INVEST Technique (How to test a user story)</p>
+<p>complete - 010 What is Scrum</p>
