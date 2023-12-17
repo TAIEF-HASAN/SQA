@@ -95,3 +95,4 @@ has been completed the full slide <br>
 <p>complete - 002 Agile 4 Values</p>
 <p>complete - 003 Agile 12 principles</p>
 <p>complete - 004 Difference between Agile & Classical Software Development</p>
+<p>complete - 005 Whole Team Approach</p>
