@@ -106,3 +106,4 @@ has been completed the full slide <br>
 <p>complete - 013 Burn-down Chart</p>
 <p>complete - 014 Velocity Chart</p>
 <p>complete - 015 Retrospective Meeting</p>
+<p>complete - 016 Kanban</p>
