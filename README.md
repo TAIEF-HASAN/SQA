@@ -107,3 +107,4 @@ has been completed the full slide <br>
 <p>complete - 014 Velocity Chart</p>
 <p>complete - 015 Retrospective Meeting</p>
 <p>complete - 016 Kanban</p>
+<a href = "https://onedrive.live.com/?authkey=%21AOHY7F1DUw%5Fu2o0&id=1164DD8150B91EA3%212844&cid=1164DD8150B91EA3&parId=root&parQt=sharedby&parCid=B5A17B6C6BF925BB&o=OneUp">Agile slides from this link</a>
