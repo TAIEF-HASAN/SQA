@@ -103,3 +103,4 @@ has been completed the full slide <br>
 <p>complete - 010 What is Scrum</p>
 <p>complete - 011 Scrum practices</p>
 <p>complete - 012 Daily Stand-up Meeting</p>
+<p>complete - 013 Burn-down Chart</p>
