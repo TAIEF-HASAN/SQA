@@ -111,4 +111,5 @@ has been completed the full slide <br>
 
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>---------------------<b>12 - How to use JIRA for Agile Testing [Beginner]</b>------------------------</p>
+<a>complete - 001 Why do testers need to learn Agile Tools</a>
 
