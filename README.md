@@ -114,4 +114,5 @@ has been completed the full slide <br>
 <p>complete - 001 Why do testers need to learn Agile Tools</p>
 <p>complete - 002 Registration & Creating First Project</p>
 <p>complete - 003 Jira Main Sections and Hierarchy</p>
+<p>complete - 004 Creating Components</p>
 
