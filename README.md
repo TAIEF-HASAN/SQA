@@ -114,9 +114,9 @@ has been completed the full slide <br>
 <p>complete - 001 Why do testers need to learn Agile Tools</p>
 <p>complete - 002 Registration & Creating First Project</p>
 <p>complete - 003 Jira Main Sections and Hierarchy</p>
-<p>complete - 007 Creating User Stories</p>
-<p>complete - 008 Creating Acceptance Criteria Part #1</p>
 <p>complete - 004 Creating Components</p>
 <p>complete - 005 Creating Epics<p>
 <p>complete - 006 Creating VersionsReleases<p>
+<p>complete - 007 Creating User Stories</p>
+<p>complete - 008 Creating Acceptance Criteria Part #1</p>
 
