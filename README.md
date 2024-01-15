@@ -119,4 +119,5 @@ has been completed the full slide <br>
 <p>complete - 006 Creating VersionsReleases<p>
 <p>complete - 007 Creating User Stories</p>
 <p>complete - 008 Creating Acceptance Criteria Part #1</p>
+<p>complete - 009 Writing Acceptance Criteria Part #2</p>
 
