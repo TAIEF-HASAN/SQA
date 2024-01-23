@@ -123,4 +123,5 @@ has been completed the full slide <br>
 <p>complete - 010 Planning Poker & Story Points</p>
 <p>complete - 011 Sprint & Iteration Management</p>
 <p>complete - 012 Burn-Down Chart & Velocity Chart</p>
+<p>complete - 013 Bug Reporting & Hardening Iteration In JIRA</p>
 
