@@ -122,4 +122,5 @@ has been completed the full slide <br>
 <p>complete - 009 Writing Acceptance Criteria Part #2</p>
 <p>complete - 010 Planning Poker & Story Points</p>
 <p>complete - 011 Sprint & Iteration Management</p>
+<p>complete - 012 Burn-Down Chart & Velocity Chart</p>
 
