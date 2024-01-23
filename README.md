@@ -121,4 +121,5 @@ has been completed the full slide <br>
 <p>complete - 008 Creating Acceptance Criteria Part #1</p>
 <p>complete - 009 Writing Acceptance Criteria Part #2</p>
 <p>complete - 010 Planning Poker & Story Points</p>
+<p>complete - 011 Sprint & Iteration Management</p>
 
