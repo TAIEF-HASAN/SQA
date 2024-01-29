@@ -127,4 +127,5 @@ has been completed the full slide <br>
 
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>---------------------------------<b>13 - Mobile Testing Basics [Beginner]</b>------------------------</p>
+<p>complete - 001 Introduction to Mobile Testing</p>
 
