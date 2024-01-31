@@ -132,4 +132,5 @@ has been completed the full slide <br>
 <p>complete - 003 Types of Mobile Applications</p>
 <p>complete - 004 Types of Mobile Devices</p>
 <p>complete - 005 Challenges of Mobile Testing</p>
+<p>complete - 006 Mobile Analytics Data</p>
 
