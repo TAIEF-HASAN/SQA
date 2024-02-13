@@ -139,3 +139,4 @@ has been completed the full slide <br>
 <p>complete - 002 HTTP Basics</p>
 <p>complete - 003 XML Basics</p>
 <p>complete - 004 JSON Basics</p>
+<p>complete - 005 SOAP & REST APIs</p>
