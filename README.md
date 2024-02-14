@@ -141,4 +141,4 @@ has been completed the full slide <br>
 <p>complete - 004 JSON Basics</p>
 <p>complete - 005 SOAP & REST APIs</p>
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
-<p>---------------------------------<b>15 - API Testing with Postman [Intermediate]</b>---------------------------</p>
+<p>------------------------------<b>15 - API Testing with Postman [Intermediate]</b>---------------------------</p>
