@@ -143,3 +143,4 @@ has been completed the full slide <br>
 <p>------------------------------------------------<b>Start</b>---------------------------------------------------</p>
 <p>--------------------------<b>15 - API Testing with Postman [Intermediate]</b>---------------------------</p>
 <p>complete - 001 What is Postman</p>
+<p>complete - 002 Installation Process</p>
